@@ -23,7 +23,7 @@ PASSWORD="12341234"
 TABLE_SCHEMA_AUTOUPDATE="false"
 DEVELOPMENT="false"
 PORT="3000"
-DATABASE_NAME="shop-db"
+DATABASE_NAME="postgres"
 EOF
 
 npm run build
